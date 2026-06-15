@@ -6,7 +6,7 @@ Cleaned a raw dataset by handling missing values, removing duplicates, and corre
 Cleaned a raw dataset as part of my 
 Data Analytics Internship at Decode Labs.
 
-## Excel Cleaner Folder
+## Excel Clean File
 
 https://github.com/peduke17/Task-1-Eduke-Princess/blob/main/Decodelabs%20Week%201.xlsx
 
