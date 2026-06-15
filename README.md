@@ -1,4 +1,4 @@
-# Task-1-Eduke-Princess
+# Task-1-EdukePrincess
 Cleaned a raw dataset by handling missing values, removing duplicates, and correcting data formats using excel
 # Project 1: Data Cleaning & Preparation
 
